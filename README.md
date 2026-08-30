@@ -2,7 +2,7 @@
 A repository containing the learning activities, assignments, project work, and documentation completed during the 8-week Gen AI Virtual Internship under the AICTE–EduSkills program.
 
 
-# 🤖 AICTE – EduSkills Virtual Internship Program | Gen AI
+#  AICTE – EduSkills Virtual Internship Program | Gen AI
 
 This repository contains my internship report, presentation, and completion credentials for the **Gen AI** track of the **AICTE–EduSkills Virtual Internship Program (April – June 2026)**.
 
